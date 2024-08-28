@@ -1,0 +1,27 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+gc
+os
+time
+tkinter
+pillow
+scipy
+tkinterdnd2
+torch
+diffusers
+deep-translator
+compel
+opencv-python
+dlib
+numpy
+clip-interrogator
+controlnet-aux
+transformers
+scikit-image
+rembg
+requests
+beautifulsoup4
+google-cloud-vision
+moviepy
+imageio
+tqdm
+
